@@ -1,3 +1,5 @@
+'use strict';
+
 // 1. Вывести # столько раз, сколько указал пользователь.
 
 const count = Number(prompt('Please enter your number'));
